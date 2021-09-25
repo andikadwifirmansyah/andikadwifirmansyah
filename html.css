@@ -10,24 +10,21 @@
 </head>
 
 <body>
-    <div class="toples-permen pertama">
-        <div class="permen-merah">
-            Permen warna merah
-        </div>
-        <div class="permen-hijau">
-            Permen warna hijau
-        </div>
+    <div class="name">
+        muhammad andika dwi firmansyah
+
+        Lahir di bogor
     </div>
-    <div class="toples-permen kedua">
-        <div class="permen-merah">
-            Permen warna merah
-        </div>
-        <div class="permen-hijau">
-            Permen warna hijau
-        </div>
-        <div class="permen-kuning">
-            permen warna kuning
-        </div>
+
+    <div class="gambar">
+        <img src="stitch.png" class="ukuran-gambar">
+    </div>
+
+    <div class="circle">
+        <img src="stitch.png" class="gambar-saya">
+    </div>
+    <div class="jenis-warna">
+        jenis-warna
     </div>
 </body>
 
